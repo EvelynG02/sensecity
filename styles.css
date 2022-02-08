@@ -1,0 +1,12 @@
+
+.demo div {
+    float: left;
+    clear: none;
+}
+h1 {
+    background-image: url("bothskylines.png");
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
